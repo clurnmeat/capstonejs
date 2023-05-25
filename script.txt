@@ -1,0 +1,12 @@
+Hello my name is Dionte, this project of mine is a resource for most people to be able to find out a little history of masonry, as well as find their nearest lodge to ask to look around. 
+
+
+The main page of my site is dedicated to only showing you the important things with none of the fluff. All statements here are mine and mine alone, I do not speak for Masonry, nor should you take it as such. This is merely a resource that is dedicated to highlighting the monthly charity as well as be a footprint for future projects to give back to our community.
+
+At the bottom of the page there is the ability to ask a personal, anonomous question, as I know these topics are often hard to discuss face to face. Or if you so wish to see for yourself, as I have done. There is a nearest lodge locator for your needs that runs headlessly to conserve on runtime, to get you to the nearest lodge on your own time. 
+
+On the left you can see an interactive quiz for participants of the site to find out other things they may not have known about Masonry. We are an organization open to the public from the Shriners to your local Lodge, all you have to do is ask. 
+
+And last but not least, be sure to checkout the donation of the month. The funds go directly to the organization, who at this time, has raised over $10,000, but are always looking for the support. Please do not mention us if you do so, please do so of your own accord. 
+
+Thank you.

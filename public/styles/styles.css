@@ -1,0 +1,326 @@
+* {
+  position: relative;
+  background-color: transparent;
+  color: #0a4d68;
+  height: fit-content;
+  resize: none;
+}
+a{
+  background-color: white;
+}
+p{
+  background-color: white;
+ 
+}
+
+input {
+  background-color: white;
+}
+
+
+form > textarea {
+  background-color: white;
+  display: inline-flex;
+  position: relative;
+  width: 280px;
+  height: 80px;
+}
+form > button {
+  background-color: #0a4d68;
+  position: relative;
+  color: white;
+  border: 0px;
+}
+li>p{
+  max-width: 880px;
+  inline-size: fit-content;
+  margin-left: 0px;
+  overflow-wrap: break-word;
+  max-lines: 80px;
+}
+
+ul,
+li {
+  background-color: white;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+form {
+  background-color: white;
+}
+
+body{
+  height: fit-content;
+  width: fit-content;
+  overflow:hidden;
+  background-image: url('https://media.istockphoto.com/id/1133497899/photo/old-dirty-paper-texture.jpg?s=612x612&w=0&k=20&c=0BnHDfayvJAmR6CGK2JUrgOh2R_C1RU7XZqUVyloHNc=');
+  
+}
+
+.container {
+  display: contents;
+  background-color: white;
+}
+.tf{
+  display: flex;
+  position: relative;
+  margin-bottom: 20px;
+  margin-inline: 300px;
+}
+.tf>button{
+  border-style: groove;
+  border-radius: 25%;
+}
+.questions {
+  position: relative;
+  margin-bottom: 100px;
+  position: relative;
+  left: 20px;
+  margin: 10px;
+  max-width: fit-content;
+  bottom: 120px;
+}
+.tf{
+  border-radius: 20%;
+  border-color: black;
+  background-color: #3bf0e7;
+}
+
+#title {
+  margin: auto;
+  align-content: center;
+  max-width: fit-content;
+}
+
+#question-div {
+  background-color: transparent;
+  display: flex;
+  flex-wrap: wrap;
+  flex-flow: column;
+  background-color: white;
+  margin-right: 50px;
+  padding-right: 60px;
+  max-height: 840px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  align-content: center;
+  
+  
+}
+#masonic-img, #masonic-family, #double-eagle  {
+  zoom: 20%;
+  position: relative;
+  left: 350px;
+  width: 500px;
+  height: auto;
+  margin : 0px;
+  border-radius: 20px;
+  margin-bottom: 60px;
+}
+
+
+#q1 {
+  position: relative;
+  max-inline-size: 280px ;
+  bottom: 280px;
+  margin-bottom: 50px;
+}
+
+#q3 {
+  position: relative;
+  max-inline-size: 280px;
+  bottom: 380px;
+  
+}
+#q2{
+  max-inline-size: 380px;
+  left: 500px;
+  bottom: 380px;
+  margin-bottom: 10px;
+  
+}
+#q4 {
+  max-inline-size: 380px;
+  left: 500px;
+  bottom: 680px;
+  margin-bottom: 0px;
+}
+
+#q5{
+  bottom: 450px;
+  margin-bottom: 0px;
+  
+}
+
+#iframe {
+  position: relative;
+  height: 840px;
+  left: 1450px;
+  width: 455px;
+  bottom: 840px;
+  border-radius: 80px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 10px;
+}
+#templar-img{
+  height: auto;
+  width: 410px;
+  top: 50px;
+  border-radius: 50px;
+  margin-bottom: 80px;
+  margin-right: 0px;
+}
+
+
+#average-masonic {
+  border-radius: 30px;
+  height: auto;
+  width: 450px;
+  margin-bottom: 280px;
+}
+
+#double-eagle {
+  width: auto;
+  height: 300px;
+  left: 650px;
+  bottom: 200px;
+}
+#masonic-img{
+  top: 400px;
+  width: 400px;
+  border-bottom-left-radius: 400px;
+  border-bottom-right-radius: 400px;
+  border-top-left-radius: 75px;
+  border-top-right-radius: 150px;
+  border-width: 0px;
+  background-color: transparent;
+  margin-left: 160px;
+
+}
+#masonic-family{
+  height: auto;
+  margin-top: 50px;
+  margin-bottom: 150px;
+  top: 50px;
+  width: 400px;
+  margin-left: 130px;
+  margin-right: 0px;
+}
+
+
+
+#true-false{
+    display: relative;
+    width: 400px;
+    height: fit-content;
+    bottom: 1675px;
+    border: 0px;
+    inline-size: 400px;
+    left: 2px;
+    margin-bottom: 0px;
+    
+    
+}
+#true-false>ul{
+  background-color: white;
+  width: 350px;
+  border-radius: 15px;
+}
+#true-false>ul>p{
+  background-color: white;
+  top: 50px;
+  width: 200px;
+
+}
+#true-false>ul>button{
+  background-color: #e0d1a8;
+  bottom: 30px;
+}
+
+
+#q-list{
+  position: relative;
+  left: 10px;
+}
+
+
+#title>div>h1{
+  position: relative;
+  font-size: 40px;
+  left: 200px;
+  border: 10px;
+  background-color: white;
+  align-content: center;
+  border-radius: 5px;
+}
+
+#question-div{
+  margin-left: 400px;
+  padding-bottom: 0px;
+  opacity: 96%;
+  border-radius: 80px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 10px;
+  scroll-margin-top: 10px;
+  width: 980px;
+}
+
+
+#charity{
+  width: fit-content;
+  position: relative;
+  bottom: 1600px;
+  left: 20px;
+  
+}
+
+#charities>ul{
+  display: inline-block;
+  border-radius: 25px;
+  width: 290px;
+  position: relative;
+  height: 230px;
+  bottom: 20px;
+  margin: fit-content;
+}
+#charities>ul>li{
+  
+  width: fit-content;
+  overflow: scroll;
+
+  
+}
+
+#charity-of-the-month{
+  width: 200px;
+  height: auto;
+}
+#cherity-chosen{
+  width: 200px;
+  height: auto;
+}
+#charities>h3{
+  left: 30px;
+}
+#zipcode{
+  position: relative;
+  bottom: 2500px;
+  left: 1190px;
+  width: 200px;
+}
+#zipcode-label {
+  bottom: 2530px;
+  left: 1545px;
+  background-color: white;
+  width: 340px;
+  height: auto;
+  border-radius: 2px;
+  max-inline-size: 100px;
+
+}
+#take-me-there{
+  position: relative;
+  bottom: 2500px;
+  left: 1200px;
+  background-color: white;
+}
