@@ -48,11 +48,12 @@ takeMeThereBtn.addEventListener('click', async (event) => {
     const res = await axios.post( `http://localhost:5005/maps/${ zipcode }`, zipcode );
     if ( res )
     {
-      alert( res.data )
+      await alert( res.data )
+      await location.reload()
       return;
     } 
   } catch (error) {
     console.error(error);
-    alert( ` There is no lodge at this location, please try again near a Major city or enter a city instead.(less anonomous)` );
+    alert( ` There is no lodge at this location, please try again with a Major City zipcode`);
   }
 });
